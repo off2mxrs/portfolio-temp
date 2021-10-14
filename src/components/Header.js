@@ -11,7 +11,7 @@ const Header = () => {
             <h2>
               Yo, It's {data.name}{" "}
               <span role="img" aria-label="Emoji">
-                👋
+                {/* 👋 */}
               </span>
             </h2>
           </Fade>
@@ -37,7 +37,7 @@ const Header = () => {
             </div>
           </Fade>
           <Fade bottom>
-            <p>{data.headerParagraph}</p>
+            {/* <p>{data.headerParagraph}</p> */}
           </Fade>
           <Fade bottom>
             <a

@@ -1,5 +1,5 @@
 import React from "react"
-import Video from "../media/childish.mp4"
+import Video from "../media/portfolioBanner.mp4"
 import scrollTo from "gatsby-plugin-smoothscroll"
 const Navbar = () => {
   return (
