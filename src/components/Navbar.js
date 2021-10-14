@@ -1,4 +1,5 @@
 import React from "react"
+import Video from "../media/childish.mp4"
 import scrollTo from "gatsby-plugin-smoothscroll"
 const Navbar = () => {
   return (
@@ -11,7 +12,7 @@ const Navbar = () => {
             className="name"
             tabIndex={0}
           >
-            Portfolio.
+            MARS
           </div>
           <div className="links-wrapper">
             <button onClick={() => scrollTo("#work")}>Work</button>
@@ -20,6 +21,9 @@ const Navbar = () => {
           </div>
         </div>
       </div>
+      <video autoPlay muted loop>
+                    <source src={Video} type="video/mp4" />
+                </video>
     </div>
   )
 }

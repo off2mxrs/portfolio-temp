@@ -9,7 +9,7 @@ const Header = () => {
         <div className="header-wrapper">
           <Fade bottom>
             <h2>
-              Hi, I'm {data.name}{" "}
+              Yo, It's {data.name}{" "}
               <span role="img" aria-label="Emoji">
                 👋
               </span>
@@ -20,20 +20,20 @@ const Header = () => {
               <h1>
                 {data.headerTagline[0]
                   ? data.headerTagline[0]
-                  : "Building digital"}
+                  : "Software Engineer"}
               </h1>
               <h1>
                 {" "}
                 {data.headerTagline[1]
                   ? data.headerTagline[1]
-                  : "products, brands"}
+                  : "Front-End Developer"}
               </h1>
-              <h1>
+              {/* <h1>
                 {" "}
                 {data.headerTagline[2]
                   ? data.headerTagline[2]
                   : "and experience"}
-              </h1>
+              </h1> */}
             </div>
           </Fade>
           <Fade bottom>

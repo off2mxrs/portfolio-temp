@@ -17,14 +17,14 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Marshawn",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "Software Engineer",
     //Line 2 For Header
-    "products, brands,",
+    "Front-End Developer",
     //Line 3 For Header
-    "and experience",
+    
   ],
   //   Header Paragraph
   headerParagraph:
@@ -45,7 +45,7 @@ export default {
       imageSrc:
         "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      // url: "http://chetanverma.com/",
     },
     {
       title: "Project Two", //Project Title - Add Your Project Title Here
