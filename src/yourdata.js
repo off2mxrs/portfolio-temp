@@ -31,7 +31,7 @@ export default {
     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "marshawndavidson.ail@gmail.com",
 
   // End Header Details -----------------------
 
@@ -174,19 +174,19 @@ export default {
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
+    { img: githubIcon, url: "https://github.com/off2mxrs" },
     {
       img: codepenIcon,
       url: "https://www.codepen.com/",
     },
     {
       img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
+      url: "https://dribbble.com/",
     },
-    {
-      img: instagramIcon,
-      url: "https://www.instagram.com/",
-    },
+    // {
+    //   img: instagramIcon,
+    //   url: "https://www.instagram.com/",
+    // },
   ],
 
   // End Contact Section ---------------

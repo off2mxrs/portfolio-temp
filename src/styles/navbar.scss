@@ -1,7 +1,7 @@
 .navbar-wrapper {
   color: rgb(216, 194, 27);
   width: 50vw;
-  height: 25vh;
+  height: 27vh;
   margin-top: 0vh;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -44,7 +44,7 @@ video {
   top: 0;
   left: 0%;
   width: 100%;
-  height: 25vh;
+  height: 30vh;
   object-fit: cover;
   // transform: translate(-50%, -50%);
   z-index: -2;
