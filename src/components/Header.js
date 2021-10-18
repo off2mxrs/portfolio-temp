@@ -9,9 +9,9 @@ const Header = () => {
         <div className="header-wrapper">
           <Fade bottom>
             <h2>
-              Yo, It's {data.name}{" "}
+              {/* Yo, It's {data.name}{" "} */}
               <span role="img" aria-label="Emoji">
-                {/* 👋 */}
+                👋
               </span>
             </h2>
           </Fade>
